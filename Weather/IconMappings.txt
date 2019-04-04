@@ -1,6 +1,6 @@
 0 - Thunderstorms
-1 - Windy Rain
-2 - Windy Rain
+1 * Windy (Heavy) Rain
+2 * Windy Light Rain
 3 - Thunderstorms
 4 - T-Storms
 5 - Rain Snow
@@ -15,26 +15,37 @@
 12 - Heavy Rain
 13 - Snow Flurries
 14 - Light Snow
-15 - Snowflakes
+15 * Wind and Snow
 16 - Heavy Snow
 17 - Thunderstorms
 18 - Hail
 19 - Dust
+19b* Windy Dust/Sand Storm
 20 - Fog
+20b* Windy Fog
 21 - Haze
+21b* Windy Haze
 22 - Smoke
+22b* Windy Smoke
 23 - Windy
 24 - Windy
+24b* Windy & Cloudy/Overcast
 25 - Frigid
 26 - Cloudy
 27 - Mostly Cloudy Night (the "Night" will not be included)
-28 - Mostly Cloudy
+27b* Windy & Mostly Cloudy Night
+28 - Mostly Cloudy Day
+28b* Windy & Mostly Cloudy Day
 29 - Partly Cloudy Night (the "Night" will not be included)
-30 - Partly Cloudy
+29b* Windy & Partly Cloudy Night
+30 - Partly Cloudy Day
+30b* Windy & Partly Cloudy Day
 31 - Clear Night (the "Night" will not be included)
+31b* Foggy Night
 32 - Sunny
 33 - Fair
 33 - Mostly Clear Night (the "Night" will not be included)
+33 - Partly Cloudy Night
 34 - Fair
 34 - Mostly Sunny
 35 - Thunderstorms
@@ -44,9 +55,11 @@
 39 - Scattered Rain
 40 - Heavy Rain
 41 - Scattered Snow
+41b* Windy/Scattered Snow
 42 - Heavy Snow
 43 - Windy/Snowy
 44 - Partly Cloudy Day
 45 - Scattered Showers Night (the "Night" will not be included)
 46 - Snowy Night
+46b* Windy/Snowy Night
 47 - Scattered T-Storms Night (the "Night" will not be included)
